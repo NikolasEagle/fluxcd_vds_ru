@@ -11,7 +11,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/NikolasEagle/fluxcd_vds_ru
+  url: https://github.com/NikolasEagle/fluxcd_vds_ru.git
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
