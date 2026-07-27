@@ -19,7 +19,7 @@ spec:
 
     image:
       pullPolicy: Always
-      tag: "v2.8.8"
+      tag: "v2.8.9"
 
     web:
       enabled: true
